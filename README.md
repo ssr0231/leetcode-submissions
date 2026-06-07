@@ -77,4 +77,20 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/ssr0231/leetcode-submissions/tree/main/0177-nth-highest-salary/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 <!---LeetCode Topics End-->
