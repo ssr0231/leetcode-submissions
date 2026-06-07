@@ -80,6 +80,7 @@ Happy Coding! 🚀
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/ssr0231/leetcode-submissions/tree/main/0007-reverse-integer/) | Medium |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 ## String
 | Problem Name | Difficulty |
