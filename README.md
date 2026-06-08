@@ -68,6 +68,7 @@ Happy Coding! 🚀
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ssr0231/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ssr0231/leetcode-submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -94,4 +95,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ssr0231/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
