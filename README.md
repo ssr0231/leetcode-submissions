@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/ssr0231/leetcode-submissions/tree/main/0177-nth-highest-salary/) | Medium |
+| [0183-customers-who-never-order](https://github.com/ssr0231/leetcode-submissions/tree/main/0183-customers-who-never-order/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
