@@ -69,6 +69,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssr0231/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ssr0231/leetcode-submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -99,4 +100,12 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssr0231/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
