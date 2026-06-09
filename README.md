@@ -84,6 +84,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ssr0231/leetcode-submissions/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/ssr0231/leetcode-submissions/tree/main/0009-palindrome-number/) | Easy |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 ## String
 | Problem Name | Difficulty |
