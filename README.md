@@ -72,10 +72,12 @@ Happy Coding! 🚀
 | [0055-jump-game](https://github.com/ssr0231/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssr0231/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/ssr0231/leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/ssr0231/leetcode-submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/ssr0231/leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/ssr0231/leetcode-submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Database
 | Problem Name | Difficulty |
