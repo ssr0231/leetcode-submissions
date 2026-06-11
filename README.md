@@ -98,6 +98,7 @@ Happy Coding! 🚀
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -124,6 +125,7 @@ Happy Coding! 🚀
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@ Happy Coding! 🚀
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -141,4 +144,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ssr0231/leetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
