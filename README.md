@@ -93,6 +93,7 @@ Happy Coding! 🚀
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ssr0231/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 | [0344-reverse-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 ## Stack
@@ -109,6 +110,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ssr0231/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/ssr0231/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssr0231/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
@@ -156,4 +158,8 @@ Happy Coding! 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ssr0231/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
