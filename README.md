@@ -135,6 +135,7 @@ Happy Coding! 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ Happy Coding! 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +169,12 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ssr0231/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
