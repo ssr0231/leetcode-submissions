@@ -88,6 +88,7 @@ Happy Coding! 🚀
 | [0183-customers-who-never-order](https://github.com/ssr0231/leetcode-submissions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/ssr0231/leetcode-submissions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/ssr0231/leetcode-submissions/tree/main/1148-article-views-i/) | Easy |
+| [1683-invalid-tweets](https://github.com/ssr0231/leetcode-submissions/tree/main/1683-invalid-tweets/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
