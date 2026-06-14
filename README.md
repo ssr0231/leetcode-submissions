@@ -143,6 +143,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/ssr0231/leetcode-submissions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -162,6 +163,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/ssr0231/leetcode-submissions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -180,6 +182,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/ssr0231/leetcode-submissions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
