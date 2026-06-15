@@ -85,6 +85,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/ssr0231/leetcode-submissions/tree/main/0175-combine-two-tables/) | Easy |
 | [0177-nth-highest-salary](https://github.com/ssr0231/leetcode-submissions/tree/main/0177-nth-highest-salary/) | Medium |
+| [0180-consecutive-numbers](https://github.com/ssr0231/leetcode-submissions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0183-customers-who-never-order](https://github.com/ssr0231/leetcode-submissions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/ssr0231/leetcode-submissions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ssr0231/leetcode-submissions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
