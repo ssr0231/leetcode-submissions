@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | [0128-longest-consecutive-sequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ssr0231/leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0739-daily-temperatures](https://github.com/ssr0231/leetcode-submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/ssr0231/leetcode-submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
+| [0739-daily-temperatures](https://github.com/ssr0231/leetcode-submissions/tree/main/0739-daily-temperatures/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,4 +228,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/ssr0231/leetcode-submissions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
