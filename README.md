@@ -114,6 +114,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/ssr0231/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 | [0344-reverse-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ssr0231/leetcode-submissions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ssr0231/leetcode-submissions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
