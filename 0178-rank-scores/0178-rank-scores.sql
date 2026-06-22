@@ -1,3 +1,4 @@
+/*
 SELECT
     s1.score,
     (
@@ -7,3 +8,9 @@ SELECT
     ) + 1 AS `rank`
 FROM Scores s1
 ORDER BY s1.score DESC;
+*/
+
+SELECT
+    score,
+    DENSE_RANK() OVER (ORDER BY score DESC) AS `rank`
+FROM Scores;
