@@ -118,6 +118,7 @@ Happy Coding! 🚀
 | [0058-length-of-last-word](https://github.com/ssr0231/leetcode-submissions/tree/main/0058-length-of-last-word/) | Easy |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 | [0344-reverse-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
+| [0709-to-lower-case](https://github.com/ssr0231/leetcode-submissions/tree/main/0709-to-lower-case/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ssr0231/leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ssr0231/leetcode-submissions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
