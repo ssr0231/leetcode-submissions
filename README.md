@@ -128,6 +128,7 @@ Happy Coding! 🚀
 | [0058-length-of-last-word](https://github.com/ssr0231/leetcode-submissions/tree/main/0058-length-of-last-word/) | Easy |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 | [0344-reverse-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 | [0709-to-lower-case](https://github.com/ssr0231/leetcode-submissions/tree/main/0709-to-lower-case/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ssr0231/leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2129-capitalize-the-title](https://github.com/ssr0231/leetcode-submissions/tree/main/2129-capitalize-the-title/) | Easy |
@@ -153,6 +154,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/ssr0231/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/ssr0231/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssr0231/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +221,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/ssr0231/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ssr0231/leetcode-submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
