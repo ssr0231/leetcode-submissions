@@ -244,6 +244,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ssr0231/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [0077-combinations](https://github.com/ssr0231/leetcode-submissions/tree/main/0077-combinations/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
