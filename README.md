@@ -192,6 +192,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/ssr0231/leetcode-submissions/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ssr0231/leetcode-submissions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -218,6 +219,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/ssr0231/leetcode-submissions/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ssr0231/leetcode-submissions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -248,6 +250,7 @@ Happy Coding! 🚀
 | [0100-same-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ssr0231/leetcode-submissions/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ssr0231/leetcode-submissions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
