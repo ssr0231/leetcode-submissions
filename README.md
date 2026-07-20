@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/ssr0231/leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0739-daily-temperatures](https://github.com/ssr0231/leetcode-submissions/tree/main/0739-daily-temperatures/) | Medium |
+| [1260-shift-2d-grid](https://github.com/ssr0231/leetcode-submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ssr0231/leetcode-submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ssr0231/leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ssr0231/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -249,6 +250,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ssr0231/leetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/ssr0231/leetcode-submissions/tree/main/0048-rotate-image/) | Medium |
+| [1260-shift-2d-grid](https://github.com/ssr0231/leetcode-submissions/tree/main/1260-shift-2d-grid/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +303,7 @@ Happy Coding! 🚀
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/ssr0231/leetcode-submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ssr0231/leetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Monotonic Stack
