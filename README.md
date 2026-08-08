@@ -68,6 +68,7 @@ Happy Coding! 🚀
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ssr0231/leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0036-valid-sudoku](https://github.com/ssr0231/leetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/ssr0231/leetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/ssr0231/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
@@ -273,6 +274,7 @@ Happy Coding! 🚀
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ssr0231/leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0202-happy-number](https://github.com/ssr0231/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
