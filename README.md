@@ -85,6 +85,7 @@ Happy Coding! 🚀
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ssr0231/leetcode-submissions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ssr0231/leetcode-submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ssr0231/leetcode-submissions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/ssr0231/leetcode-submissions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ssr0231/leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ssr0231/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/ssr0231/leetcode-submissions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -283,6 +284,7 @@ Happy Coding! 🚀
 | [0036-valid-sudoku](https://github.com/ssr0231/leetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/ssr0231/leetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ssr0231/leetcode-submissions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/ssr0231/leetcode-submissions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
