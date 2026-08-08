@@ -320,6 +320,7 @@ Happy Coding! 🚀
 | [0035-search-insert-position](https://github.com/ssr0231/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/ssr0231/leetcode-submissions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ssr0231/leetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -420,4 +421,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ssr0231/leetcode-submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ssr0231/leetcode-submissions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
