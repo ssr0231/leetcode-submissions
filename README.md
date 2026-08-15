@@ -83,6 +83,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/ssr0231/leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ssr0231/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0739-daily-temperatures](https://github.com/ssr0231/leetcode-submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [0867-transpose-matrix](https://github.com/ssr0231/leetcode-submissions/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/ssr0231/leetcode-submissions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -229,6 +230,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ssr0231/leetcode-submissions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ssr0231/leetcode-submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ssr0231/leetcode-submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -297,6 +299,7 @@ Happy Coding! 🚀
 | [0344-reverse-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ssr0231/leetcode-submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ssr0231/leetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
@@ -337,6 +340,7 @@ Happy Coding! 🚀
 | [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/ssr0231/leetcode-submissions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/ssr0231/leetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -380,6 +384,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ssr0231/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ssr0231/leetcode-submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ssr0231/leetcode-submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ssr0231/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -438,6 +443,7 @@ Happy Coding! 🚀
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ssr0231/leetcode-submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
