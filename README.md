@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssr0231/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0217-contains-duplicate](https://github.com/ssr0231/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ssr0231/leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -213,6 +214,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/ssr0231/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/ssr0231/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ssr0231/leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -382,6 +384,7 @@ Happy Coding! 🚀
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/ssr0231/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ssr0231/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/0658-find-k-closest-elements/) | Medium |
