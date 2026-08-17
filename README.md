@@ -174,6 +174,7 @@ Happy Coding! 🚀
 | [0257-binary-tree-paths](https://github.com/ssr0231/leetcode-submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
+| [0567-permutation-in-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/ssr0231/leetcode-submissions/tree/main/0709-to-lower-case/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ssr0231/leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -217,6 +218,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/ssr0231/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0567-permutation-in-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ssr0231/leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ssr0231/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -232,6 +234,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0567-permutation-in-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ssr0231/leetcode-submissions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ssr0231/leetcode-submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -301,6 +304,7 @@ Happy Coding! 🚀
 | [0344-reverse-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
+| [0567-permutation-in-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ssr0231/leetcode-submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ssr0231/leetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
