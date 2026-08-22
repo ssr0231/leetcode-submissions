@@ -158,6 +158,7 @@ Happy Coding! 🚀
 | [3345-smallest-divisible-digit-product-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ssr0231/leetcode-submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ssr0231/leetcode-submissions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ssr0231/leetcode-submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
