@@ -152,6 +152,7 @@ Happy Coding! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/ssr0231/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ssr0231/leetcode-submissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1927-sum-game](https://github.com/ssr0231/leetcode-submissions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ssr0231/leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ssr0231/leetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -180,6 +181,7 @@ Happy Coding! 🚀
 | [1071-greatest-common-divisor-of-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ssr0231/leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ssr0231/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1927-sum-game](https://github.com/ssr0231/leetcode-submissions/tree/main/1927-sum-game/) | Medium |
 | [2129-capitalize-the-title](https://github.com/ssr0231/leetcode-submissions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ssr0231/leetcode-submissions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -245,6 +247,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0055-jump-game](https://github.com/ssr0231/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ssr0231/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1927-sum-game](https://github.com/ssr0231/leetcode-submissions/tree/main/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Tree
@@ -461,4 +464,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ssr0231/leetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/ssr0231/leetcode-submissions/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
