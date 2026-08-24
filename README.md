@@ -181,6 +181,7 @@ Happy Coding! 🚀
 | [1071-greatest-common-divisor-of-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ssr0231/leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ssr0231/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/ssr0231/leetcode-submissions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/ssr0231/leetcode-submissions/tree/main/1927-sum-game/) | Medium |
 | [2129-capitalize-the-title](https://github.com/ssr0231/leetcode-submissions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -310,6 +311,7 @@ Happy Coding! 🚀
 | [0392-is-subsequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/ssr0231/leetcode-submissions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ssr0231/leetcode-submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ssr0231/leetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Matrix
