@@ -130,6 +130,7 @@ Happy Coding! 🚀
 | [0184-department-highest-salary](https://github.com/ssr0231/leetcode-submissions/tree/main/0184-department-highest-salary/) | Medium |
 | [0511-game-play-analysis-i](https://github.com/ssr0231/leetcode-submissions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ssr0231/leetcode-submissions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0584-find-customer-referee](https://github.com/ssr0231/leetcode-submissions/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ssr0231/leetcode-submissions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0608-tree-node](https://github.com/ssr0231/leetcode-submissions/tree/main/0608-tree-node/) | Medium |
 | [0610-triangle-judgement](https://github.com/ssr0231/leetcode-submissions/tree/main/0610-triangle-judgement/) | Easy |
