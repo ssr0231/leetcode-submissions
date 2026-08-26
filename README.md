@@ -188,6 +188,7 @@ Happy Coding! 🚀
 | [2129-capitalize-the-title](https://github.com/ssr0231/leetcode-submissions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ssr0231/leetcode-submissions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ssr0231/leetcode-submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ssr0231/leetcode-submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -244,6 +245,7 @@ Happy Coding! 🚀
 | [0567-permutation-in-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ssr0231/leetcode-submissions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ssr0231/leetcode-submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ssr0231/leetcode-submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ssr0231/leetcode-submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Greedy
