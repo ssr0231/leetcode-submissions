@@ -192,6 +192,7 @@ Happy Coding! 🚀
 | [2129-capitalize-the-title](https://github.com/ssr0231/leetcode-submissions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ssr0231/leetcode-submissions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/ssr0231/leetcode-submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ssr0231/leetcode-submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -208,6 +209,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 | [0739-daily-temperatures](https://github.com/ssr0231/leetcode-submissions/tree/main/0739-daily-temperatures/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/ssr0231/leetcode-submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -398,6 +400,7 @@ Happy Coding! 🚀
 | [1260-shift-2d-grid](https://github.com/ssr0231/leetcode-submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/ssr0231/leetcode-submissions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ssr0231/leetcode-submissions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/ssr0231/leetcode-submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ssr0231/leetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Monotonic Stack
