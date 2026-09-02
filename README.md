@@ -113,6 +113,7 @@ Happy Coding! 🚀
 | [3731-find-missing-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ssr0231/leetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@ Happy Coding! 🚀
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ssr0231/leetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
