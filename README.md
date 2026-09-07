@@ -91,6 +91,7 @@ Happy Coding! 🚀
 | [0739-daily-temperatures](https://github.com/ssr0231/leetcode-submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [0867-transpose-matrix](https://github.com/ssr0231/leetcode-submissions/tree/main/0867-transpose-matrix/) | Easy |
 | [1002-find-common-characters](https://github.com/ssr0231/leetcode-submissions/tree/main/1002-find-common-characters/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/ssr0231/leetcode-submissions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/ssr0231/leetcode-submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ssr0231/leetcode-submissions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ssr0231/leetcode-submissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -245,6 +246,7 @@ Happy Coding! 🚀
 | [0884-uncommon-words-from-two-sentences](https://github.com/ssr0231/leetcode-submissions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1002-find-common-characters](https://github.com/ssr0231/leetcode-submissions/tree/main/1002-find-common-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ssr0231/leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/ssr0231/leetcode-submissions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ssr0231/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
