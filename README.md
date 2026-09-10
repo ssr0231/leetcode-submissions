@@ -300,6 +300,7 @@ Happy Coding! 🚀
 | [0404-sum-of-left-leaves](https://github.com/ssr0231/leetcode-submissions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ssr0231/leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,6 +329,7 @@ Happy Coding! 🚀
 | [0404-sum-of-left-leaves](https://github.com/ssr0231/leetcode-submissions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ssr0231/leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +372,7 @@ Happy Coding! 🚀
 | [0404-sum-of-left-leaves](https://github.com/ssr0231/leetcode-submissions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ssr0231/leetcode-submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
