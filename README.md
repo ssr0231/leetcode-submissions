@@ -188,6 +188,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/ssr0231/leetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/ssr0231/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ssr0231/leetcode-submissions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0058-length-of-last-word](https://github.com/ssr0231/leetcode-submissions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/ssr0231/leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
@@ -238,6 +239,7 @@ Happy Coding! 🚀
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ssr0231/leetcode-submissions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0036-valid-sudoku](https://github.com/ssr0231/leetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -265,6 +267,7 @@ Happy Coding! 🚀
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ssr0231/leetcode-submissions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/0658-find-k-closest-elements/) | Medium |
