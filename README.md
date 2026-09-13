@@ -101,6 +101,7 @@ Happy Coding! 🚀
 | [1480-running-sum-of-1d-array](https://github.com/ssr0231/leetcode-submissions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/ssr0231/leetcode-submissions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ssr0231/leetcode-submissions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ssr0231/leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ssr0231/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/ssr0231/leetcode-submissions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -202,6 +203,7 @@ Happy Coding! 🚀
 | [1071-greatest-common-divisor-of-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ssr0231/leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ssr0231/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/ssr0231/leetcode-submissions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/ssr0231/leetcode-submissions/tree/main/1927-sum-game/) | Medium |
 | [2129-capitalize-the-title](https://github.com/ssr0231/leetcode-submissions/tree/main/2129-capitalize-the-title/) | Easy |
@@ -254,6 +256,7 @@ Happy Coding! 🚀
 | [1189-maximum-number-of-balloons](https://github.com/ssr0231/leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/ssr0231/leetcode-submissions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ssr0231/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ssr0231/leetcode-submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -395,6 +398,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Union-Find
@@ -456,6 +460,7 @@ Happy Coding! 🚀
 | [0884-uncommon-words-from-two-sentences](https://github.com/ssr0231/leetcode-submissions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ssr0231/leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ssr0231/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ssr0231/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
