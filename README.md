@@ -165,6 +165,7 @@ Happy Coding! 🚀
 | [0204-count-primes](https://github.com/ssr0231/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/ssr0231/leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/ssr0231/leetcode-submissions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ssr0231/leetcode-submissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1927-sum-game](https://github.com/ssr0231/leetcode-submissions/tree/main/1927-sum-game/) | Medium |
@@ -553,4 +554,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/ssr0231/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/ssr0231/leetcode-submissions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
