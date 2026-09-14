@@ -103,6 +103,7 @@ Happy Coding! 🚀
 | [1672-richest-customer-wealth](https://github.com/ssr0231/leetcode-submissions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ssr0231/leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1800-maximum-ascending-subarray-sum](https://github.com/ssr0231/leetcode-submissions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ssr0231/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/ssr0231/leetcode-submissions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ssr0231/leetcode-submissions/tree/main/1929-concatenation-of-array/) | Easy |
