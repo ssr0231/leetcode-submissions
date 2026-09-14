@@ -195,6 +195,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/ssr0231/leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 | [0257-binary-tree-paths](https://github.com/ssr0231/leetcode-submissions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0290-word-pattern](https://github.com/ssr0231/leetcode-submissions/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
@@ -250,6 +251,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/ssr0231/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/ssr0231/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0290-word-pattern](https://github.com/ssr0231/leetcode-submissions/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ssr0231/leetcode-submissions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
