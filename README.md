@@ -113,6 +113,7 @@ Happy Coding! 🚀
 | [2574-left-and-right-sum-differences](https://github.com/ssr0231/leetcode-submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ssr0231/leetcode-submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ssr0231/leetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ssr0231/leetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ssr0231/leetcode-submissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -268,6 +269,7 @@ Happy Coding! 🚀
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ssr0231/leetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ssr0231/leetcode-submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/ssr0231/leetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ssr0231/leetcode-submissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/3731-find-missing-elements/) | Easy |
@@ -406,6 +408,7 @@ Happy Coding! 🚀
 | [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
