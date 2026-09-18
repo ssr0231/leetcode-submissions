@@ -111,6 +111,7 @@ Happy Coding! 🚀
 | [2089-find-target-indices-after-sorting-array](https://github.com/ssr0231/leetcode-submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ssr0231/leetcode-submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ssr0231/leetcode-submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ssr0231/leetcode-submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ssr0231/leetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -265,6 +266,7 @@ Happy Coding! 🚀
 | [1684-count-the-number-of-consistent-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ssr0231/leetcode-submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ssr0231/leetcode-submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ssr0231/leetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -487,6 +489,7 @@ Happy Coding! 🚀
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ssr0231/leetcode-submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -567,4 +570,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ssr0231/leetcode-submissions/tree/main/0836-rectangle-overlap/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ssr0231/leetcode-submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
