@@ -1,8 +1,10 @@
 class Solution:
     def duplicateNumbersXOR(self, nums: List[int]) -> int:
+        mp={}
+        for val in nums:
+            mp[val]=mp.get(val,0)+1
         ans = 0
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i]==nums[j]:
-                    ans^=nums[i]
+        for keys,values in mp.items():
+            if values == 2:
+                ans ^= keys
         return ans
