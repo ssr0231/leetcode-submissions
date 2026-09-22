@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ssr0231/leetcode-submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssr0231/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/ssr0231/leetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ssr0231/leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
@@ -250,6 +251,7 @@ Happy Coding! 🚀
 | [0055-jump-game](https://github.com/ssr0231/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/ssr0231/leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssr0231/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -298,6 +300,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/ssr0231/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ssr0231/leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1927-sum-game](https://github.com/ssr0231/leetcode-submissions/tree/main/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
