@@ -166,6 +166,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/ssr0231/leetcode-submissions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/ssr0231/leetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/ssr0231/leetcode-submissions/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/ssr0231/leetcode-submissions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/ssr0231/leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/ssr0231/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/ssr0231/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
@@ -402,6 +403,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/ssr0231/leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/ssr0231/leetcode-submissions/tree/main/0069-sqrtx/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/ssr0231/leetcode-submissions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -579,4 +581,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ssr0231/leetcode-submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/ssr0231/leetcode-submissions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
