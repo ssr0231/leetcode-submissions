@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssr0231/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/ssr0231/leetcode-submissions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/ssr0231/leetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ssr0231/leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/ssr0231/leetcode-submissions/tree/main/0204-count-primes/) | Medium |
@@ -418,6 +419,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/ssr0231/leetcode-submissions/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/ssr0231/leetcode-submissions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
