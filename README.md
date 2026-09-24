@@ -121,6 +121,7 @@ Happy Coding! 🚀
 | [3312-sorted-gcd-pair-queries](https://github.com/ssr0231/leetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ssr0231/leetcode-submissions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ssr0231/leetcode-submissions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ssr0231/leetcode-submissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -187,6 +188,7 @@ Happy Coding! 🚀
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ssr0231/leetcode-submissions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ssr0231/leetcode-submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ssr0231/leetcode-submissions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ssr0231/leetcode-submissions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ssr0231/leetcode-submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
