@@ -129,6 +129,7 @@ Happy Coding! 🚀
 | [3875-construct-uniform-parity-array-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3978-unique-middle-element](https://github.com/ssr0231/leetcode-submissions/tree/main/3978-unique-middle-element/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -496,6 +497,7 @@ Happy Coding! 🚀
 | [3312-sorted-gcd-pair-queries](https://github.com/ssr0231/leetcode-submissions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3978-unique-middle-element](https://github.com/ssr0231/leetcode-submissions/tree/main/3978-unique-middle-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
