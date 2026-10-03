@@ -132,6 +132,7 @@ Happy Coding! 🚀
 | [3876-construct-uniform-parity-array-ii](https://github.com/ssr0231/leetcode-submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3978-unique-middle-element](https://github.com/ssr0231/leetcode-submissions/tree/main/3978-unique-middle-element/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ssr0231/leetcode-submissions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +296,7 @@ Happy Coding! 🚀
 | [3718-smallest-missing-multiple-of-k](https://github.com/ssr0231/leetcode-submissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ssr0231/leetcode-submissions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +466,7 @@ Happy Coding! 🚀
 | [3498-reverse-degree-of-a-string](https://github.com/ssr0231/leetcode-submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ssr0231/leetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ssr0231/leetcode-submissions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -488,6 +491,7 @@ Happy Coding! 🚀
 | [3536-maximum-product-of-two-digits](https://github.com/ssr0231/leetcode-submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ssr0231/leetcode-submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ssr0231/leetcode-submissions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -503,6 +507,7 @@ Happy Coding! 🚀
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ssr0231/leetcode-submissions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3978-unique-middle-element](https://github.com/ssr0231/leetcode-submissions/tree/main/3978-unique-middle-element/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ssr0231/leetcode-submissions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -547,6 +552,7 @@ Happy Coding! 🚀
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/ssr0231/leetcode-submissions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ssr0231/leetcode-submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ssr0231/leetcode-submissions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -607,4 +613,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ssr0231/leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/ssr0231/leetcode-submissions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 <!---LeetCode Topics End-->
