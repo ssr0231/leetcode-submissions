@@ -226,6 +226,7 @@ Happy Coding! 🚀
 | [1684-count-the-number-of-consistent-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/ssr0231/leetcode-submissions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ssr0231/leetcode-submissions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ssr0231/leetcode-submissions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1927-sum-game](https://github.com/ssr0231/leetcode-submissions/tree/main/1927-sum-game/) | Medium |
 | [2129-capitalize-the-title](https://github.com/ssr0231/leetcode-submissions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -283,6 +284,7 @@ Happy Coding! 🚀
 | [1657-determine-if-two-strings-are-close](https://github.com/ssr0231/leetcode-submissions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ssr0231/leetcode-submissions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ssr0231/leetcode-submissions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ssr0231/leetcode-submissions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ssr0231/leetcode-submissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ssr0231/leetcode-submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
