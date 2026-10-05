@@ -218,6 +218,7 @@ Happy Coding! 🚀
 | [0392-is-subsequence](https://github.com/ssr0231/leetcode-submissions/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/ssr0231/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/ssr0231/leetcode-submissions/tree/main/0709-to-lower-case/) | Easy |
+| [0856-score-of-parentheses](https://github.com/ssr0231/leetcode-submissions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ssr0231/leetcode-submissions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1002-find-common-characters](https://github.com/ssr0231/leetcode-submissions/tree/main/1002-find-common-characters/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ssr0231/leetcode-submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -249,6 +250,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/ssr0231/leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0224-basic-calculator](https://github.com/ssr0231/leetcode-submissions/tree/main/0224-basic-calculator/) | Hard |
 | [0739-daily-temperatures](https://github.com/ssr0231/leetcode-submissions/tree/main/0739-daily-temperatures/) | Medium |
+| [0856-score-of-parentheses](https://github.com/ssr0231/leetcode-submissions/tree/main/0856-score-of-parentheses/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ssr0231/leetcode-submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -587,6 +589,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ssr0231/leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [0856-score-of-parentheses](https://github.com/ssr0231/leetcode-submissions/tree/main/0856-score-of-parentheses/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
